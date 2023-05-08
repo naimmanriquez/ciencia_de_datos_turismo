@@ -11,3 +11,7 @@ Además de este, se encuentra disponible una serie de materiales que abordan otr
 
 ## Sobre el curso
 Para este curso vamos a trabajar, desde el principio, con código en R. Para efectos practicos, vamos a trabajar con su versión en la nube [Rstudio Cloud](https://login.rstudio.cloud/login?redirect=%2F), para ello es necesario de preferencia registrarse con una cuenta de Google.
+
+## Algunos libros de apoyo para estadística con R
+* [Discovering Statistics Using R](https://aedmoodle.ufpa.br/pluginfile.php/401852/mod_resource/content/5/Material_PDF/1.Discovering%20Statistics%20Using%20R.pdf)
+* [An Introduction to Statistical Learning with Applications in R](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)
